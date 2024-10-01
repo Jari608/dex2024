@@ -24,14 +24,14 @@ Add Ingredient Shortage Handling:
 
 ## Set-Up
 1. Create an empty environment, in the shell:
-'''
+```
 python -m venv venv_dex
-'''
+```
 2. Activate the newly created environment:
-'''
+```
 venv\Scripts\activate
-'''
+```
 3. Install the required dependencies:
-'''
+```
 pip install pytest
-'''
+```
