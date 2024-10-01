@@ -9,5 +9,6 @@ Tips:
    The fixtures are available under their function name.
 """
 
+
 def test_grocery_list_generator(meal_plan, recipies, grocery_list) -> None:
     pass
