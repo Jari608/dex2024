@@ -29,7 +29,7 @@ python -m venv venv_dex
 ```
 2. Activate the newly created environment:
 ```
-venv\Scripts\activate
+venv_dex\Scripts\activate
 ```
 3. Install the required dependencies:
 ```
